@@ -51,7 +51,7 @@ static void computeAdditions (Tool *t)
 
 /* B) Deductions part */
 
-static int onlyLetters (Tool *t)
+static inline int onlyLetters (Tool *t)
 {
     return ((t->nlowr+t->nuppr) == t->len) ? (-t->len) : 0;
 }
