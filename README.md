@@ -2,7 +2,7 @@
 Compute passwords strength and find the best password. With a benchmark test
 - Rate your password or generate a strong one.
 
-# Benchmark test example : 
+* Benchmark test example: 
 
     Test with length = 3
     Best password found:     #nY    global score: 24(ratio -76)
