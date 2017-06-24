@@ -2,6 +2,9 @@
 Compute passwords strength and find the best password. With a benchmark test
 - Rate your password or generate a strong one.
 
+- Disclaimer:
+This application is designed to assess the strength of password strings. The instantaneous visual feedback provides the user a means to improve the strength of their passwords, with a hard focus on breaking the typical bad habits of faulty password formulation. Since no official weighting system exists, we created our own formulas to assess the overall strength of a given password. Please note, that this application does not utilize the typical "days-to-crack" approach for strength determination. We have found that particular system to be severely lacking and unreliable for real-world scenarios. This application is neither perfect nor foolproof, and should only be utilized as a loose guide in determining methods for improving the password creation process.
+
 # Benchmark test example: 
     Test with length = 3
     Best password found:     #nY    global score: 24(ratio -76)
